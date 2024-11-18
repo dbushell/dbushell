@@ -6,4 +6,4 @@
 ██████╔╝██████╦╝╚██████╔╝██████╔╝██║  ██║███████╗███████╗███████╗
 ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
-[dbushell.com](https://dbushell.com) | [@dbushell@fosstodon.org](https://fosstodon.org/@dbushell)
+[dbushell.com](https://dbushell.com) | [Mastodon](https://fosstodon.org/@dbushell) | [Bluesky](https://bsky.app/profile/dbushell.com)

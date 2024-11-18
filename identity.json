@@ -3,5 +3,6 @@
   "email": "hi@dbushell.com",
   "url": "https://dbushell.com",
   "github": "https://github.com/dbushell/",
-  "mastodon": "@dbushell@fosstodon.org"
+  "mastodon": "https://fosstodon.org/@dbushell",
+  "bluesky": "https://bsky.app/profile/dbushell.com"
 }
