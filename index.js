@@ -1,3 +1,3 @@
-import identity from './identity.json' assert {type: 'json'};
+import identity from './identity.json' with {type: 'json'};
 
 export default identity;
