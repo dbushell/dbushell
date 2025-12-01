@@ -1,6 +1,4 @@
-# 💀 RIP GITHUB
-
-[**GitHub has ensloppified.**](https://dbushell.com/2025/08/11/github-ensloppification/)
+# [https://git.dbushell.com](https://git.dbushell.com)
 
 Find my new repos here: [https://git.dbushell.com](https://git.dbushell.com)
 
